@@ -43,6 +43,7 @@ Entender de forma precisa los conceptos  básicos de ciercutos electricos mediat
 ![image](https://user-images.githubusercontent.com/94098157/141260425-3fe818b3-7821-4d02-879f-6e3d304b5702.png)
 
 **3.VIDEO**
+https://www.youtube.com/watch?v=pHgrGAeXbaM
 
 **4.CONCLUSIONES**
 
