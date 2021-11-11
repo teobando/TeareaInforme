@@ -20,7 +20,9 @@ Entender de forma precisa los conceptos  básicos de ciercutos electricos mediat
 
 **2.MARCO TEORICO(RESUMEN)**
 
-
+![image](https://user-images.githubusercontent.com/94098157/141314933-e19100f8-79f3-45da-9a39-9fd12defc0a3.png)
+![image](https://user-images.githubusercontent.com/94098157/141302211-8638d567-8694-421b-8ad9-0059c761d46f.png)
+![image](https://user-images.githubusercontent.com/94098157/141302574-1b44eb85-c159-452e-966c-224a62b7efce.png)
 
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
